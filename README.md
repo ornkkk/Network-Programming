@@ -1,2 +1,2 @@
 # Network-Programming
-Repository for Network Programming COdes using C++ and Python
+Repository for Network Programming Codes using C++ and Python
